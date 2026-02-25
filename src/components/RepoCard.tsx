@@ -16,7 +16,7 @@ interface RepoCardProps {
 
 export default function RepoCard({ repo }: RepoCardProps) {
   // Lógica de destaque para suas Core Skills
-  const isHighlight = ["PHP", "TypeScript", "JavaScript", "React", "Angular"].includes(
+  const isHighlight = ["PHP", "TypeScript", "JavaScript", "React", "Angular", "Dart"].includes(
     repo.language || ""
   );
 
