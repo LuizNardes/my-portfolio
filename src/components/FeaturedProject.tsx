@@ -45,6 +45,10 @@ export default function FeaturedProject() {
                 <CheckCircle2 className="w-5 h-5 text-emerald-400 shrink-0 mt-0.5" />
                 <span>Foco em usabilidade para o trabalho em campo.</span>
              </li>
+             <li className="flex items-start gap-2">
+                <CheckCircle2 className="w-5 h-5 text-emerald-400 shrink-0 mt-0.5" />
+                <span>Geração automatizada de laudos profissionais em PDF.</span>
+             </li>
           </ul>
         </div>
 
