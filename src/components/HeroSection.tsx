@@ -75,7 +75,7 @@ export default function HeroSection() {
 
         <div className="relative w-full h-full rounded-full border-4 border-slate-800 overflow-hidden shadow-2xl">
           <Image
-            src="/images/dev/luiz_nardes.jpeg"
+            src="/images/dev/luiz_nardes.png"
             alt="Foto de perfil de Luiz Gustavo"
             fill
             sizes="(max-width: 768px) 224px, 320px"
